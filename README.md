@@ -12,26 +12,26 @@ The current work corresponds to an academic design stage focused on evaluating t
 
 The following image shows the preliminary SolidWorks assembly of the knee actuator and its integration concept with the orthosis structure.
 
-![CAD Assembly](media/cad_assembly.png)
+![CAD Assembly](Imagenes/cad_assembly.png)
 
 ## Motion Study
 
 A preliminary motion study was developed in SolidWorks to visualize the flexion-extension movement of the knee actuator before physical prototyping.
 
-[Watch motion preview](media/motion_preview.mp4)
+[Watch motion preview](Imagenes/motion_preview.mp4)
 
 ## Finite Element Analysis Preview
 
 A preliminary finite element analysis was performed to evaluate the mechanical behavior of selected components under design loads.
 
-![FEA Study](media/fea_study.png)
+![FEA Study](Imagenes/fea_study.png)
 
 ## Repository Structure
 
 ```text
 low-cost-qdd-knee-exoskeleton/
 │
-├── media/
+├── Imagenes/
 │   ├── cad_assembly.png
 │   ├── fea_study.png
 │   └── motion_preview.mp4
@@ -39,9 +39,7 @@ low-cost-qdd-knee-exoskeleton/
 ├── matlab/
 │   ├── evaluacion_termica_actuador/
 │   └── investigacion_dinamico/
-│
-│
-└── documentation/
+
 ```
 
 ## MATLAB and Simulink Files
