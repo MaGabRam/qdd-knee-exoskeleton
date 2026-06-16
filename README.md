@@ -106,7 +106,7 @@ Generated MATLAB/Simulink cache files are not required to understand or reproduc
 
 ## Author
 
-Pedro Adrián Santos Orellana
+Mariel Gabriela Valeriano Ramos
 Mechatronics Engineering
 Universidad Católica Boliviana “San Pablo”
 Taller de Grado I – 2026
